@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music Theory | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/music-theory/</link>
+      <atom:link href="http://localhost:1313/tags/music-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Music Theory</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Mar 2024 14:00:06 +0100</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Music Theory</title>
+      <link>http://localhost:1313/tags/music-theory/</link>
+    </image>
+    
+    <item>
+      <title>Transatlantic Transformations: On Neo-Riemannian Theories</title>
+      <link>http://localhost:1313/publication/2024/transatlantic_transformations/</link>
+      <pubDate>Mon, 04 Mar 2024 14:00:06 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2024/transatlantic_transformations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual tonal spaces (VTS): towards an interactive digital environment for music theory</title>
+      <link>http://localhost:1313/event/2023/20231122_vts/</link>
+      <pubDate>Wed, 22 Nov 2023 15:20:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/2023/20231122_vts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counting notes: Research questions and methods in music corpus studies</title>
+      <link>http://localhost:1313/event/2023/20231012_unil/</link>
+      <pubDate>Thu, 12 Oct 2023 10:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/2023/20231012_unil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Respondent to Sanja Kiš Žuvela: Musical Terminology, Digital Corpus Management and Translation</title>
+      <link>http://localhost:1313/event/2023/20230209_respondent_gmth/</link>
+      <pubDate>Thu, 09 Feb 2023 18:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/2023/20230209_respondent_gmth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenging sources: a new dataset for OMR of diverse 19th-century music theory examples</title>
+      <link>http://localhost:1313/event/2022/20221118_worms/</link>
+      <pubDate>Fri, 18 Nov 2022 11:11:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/2022/20221118_worms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenging sources: a new dataset for OMR of diverse 19th-century music theory examples</title>
+      <link>http://localhost:1313/publication/20221118_worms/</link>
+      <pubDate>Mon, 31 Oct 2022 11:03:30 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20221118_worms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Tong Yun San Gong theory in Chinese music: a corpus study of Chinese folksongs</title>
+      <link>http://localhost:1313/event/2022/20220614-17_aawm_sheffield/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2022/20220614-17_aawm_sheffield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitizing a 19th-Century Music Theory Debate for Computational Analysis</title>
+      <link>http://localhost:1313/event/2021/20211118_amsterdam_chr/</link>
+      <pubDate>Thu, 18 Nov 2021 15:05:36 +0200</pubDate>
+      <guid>http://localhost:1313/event/2021/20211118_amsterdam_chr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitizing a 19th-Century Music Theory Debate for Computational Analysis</title>
+      <link>http://localhost:1313/publication/2021_chr_workshop_ddd/</link>
+      <pubDate>Tue, 26 Oct 2021 15:05:36 +0200</pubDate>
+      <guid>http://localhost:1313/publication/2021_chr_workshop_ddd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitizing the Dualism Debate - a case study in the computational analysis of historical music theory sources</title>
+      <link>http://localhost:1313/event/2021/20210916_cross_lausanne/</link>
+      <pubDate>Sun, 19 Sep 2021 13:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/2021/20210916_cross_lausanne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitions of Tonality: Perspectives on the Historical Changes of Tonal Pitch Relations from Computational Musicology, Music Theory, and the Digital Humanities.</title>
+      <link>http://localhost:1313/event/2019/20191129_cologne/</link>
+      <pubDate>Fri, 29 Nov 2019 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/2019/20191129_cologne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theorie der Tonfelder und Neo-Riemannian Theory</title>
+      <link>http://localhost:1313/publication/moss-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moss-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

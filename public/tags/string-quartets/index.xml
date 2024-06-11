@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>String Quartets | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/string-quartets/</link>
+      <atom:link href="http://localhost:1313/tags/string-quartets/index.xml" rel="self" type="application/rss+xml" />
+    <description>String Quartets</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 19:23:56 +0100</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>String Quartets</title>
+      <link>http://localhost:1313/tags/string-quartets/</link>
+    </image>
+    
+    <item>
+      <title>Die Entwicklung der tonalen Sprache in Beethovens Streichquartetten: Eine vergleichende Korpusstudie der Schaffensphasen</title>
+      <link>http://localhost:1313/event/2020/20200916_bonn/</link>
+      <pubDate>Tue, 28 Sep 2021 19:23:56 +0100</pubDate>
+      <guid>http://localhost:1313/event/2020/20200916_bonn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

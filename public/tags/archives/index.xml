@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/archives/</link>
+      <atom:link href="http://localhost:1313/tags/archives/index.xml" rel="self" type="application/rss+xml" />
+    <description>Archives</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2024 14:00:00 -0300</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Archives</title>
+      <link>http://localhost:1313/tags/archives/</link>
+    </image>
+    
+    <item>
+      <title>Corpus Research and Choro: Potential and Challenges for Digital Methods</title>
+      <link>http://localhost:1313/event/2024/20240403_ufrj/</link>
+      <pubDate>Wed, 03 Apr 2024 14:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/event/2024/20240403_ufrj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

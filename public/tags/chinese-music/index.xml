@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chinese Music | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/chinese-music/</link>
+      <atom:link href="http://localhost:1313/tags/chinese-music/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chinese Music</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Chinese Music</title>
+      <link>http://localhost:1313/tags/chinese-music/</link>
+    </image>
+    
+    <item>
+      <title>Revisiting Tong Yun San Gong theory in Chinese music: a corpus study of Chinese folksongs</title>
+      <link>http://localhost:1313/event/2022/20220614-17_aawm_sheffield/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2022/20220614-17_aawm_sheffield/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

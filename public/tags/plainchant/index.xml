@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plainchant | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/plainchant/</link>
+      <atom:link href="http://localhost:1313/tags/plainchant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Plainchant</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Nov 2023 09:20:00 +0100</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Plainchant</title>
+      <link>http://localhost:1313/tags/plainchant/</link>
+    </image>
+    
+    <item>
+      <title>Historical Changes of Modes and their Substructure Modeled as Pitch Distributions in Plainchant from the 1100s to the 1500s</title>
+      <link>http://localhost:1313/publication/2023/20231116_cmmr/</link>
+      <pubDate>Thu, 16 Nov 2023 09:20:00 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2023/20231116_cmmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical Changes of Modes and their Substructure Modeled as Pitch Distributions in Plainchant from the 1100s to the 1500s</title>
+      <link>http://localhost:1313/event/2023/20231113-17_cmmr/</link>
+      <pubDate>Mon, 13 Nov 2023 16:24:27 +0200</pubDate>
+      <guid>http://localhost:1313/event/2023/20231113-17_cmmr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        In my research, I bridge concepts and methodologies from the humanities and the sciences, and aim to understand music and its structure from an inherently **interdisciplinary perspective**, involving fields such as musicology and music theory, mathematics, music information retrieval, data science and machine learning, music cognition, and the digital humanities. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        One of my central interests lies in analysing large digital corpora in order to better understand musical styles, especially from a historical viewpoint. More specifically, I work with large **symbolic datasets** of musical scores and harmonic annotations. I am also interested in **computational modeling** of music and its perception, and am fascinated by quantitative approaches to model historical processes. 
+
+        I teach courses covering a wide range of topics in music theory, computational musicology, and digital tools.
     design:
       columns: '1'
   - block: collection

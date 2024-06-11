@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Musicology | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/computational-musicology/</link>
+      <atom:link href="http://localhost:1313/tags/computational-musicology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Musicology</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2024 14:00:00 -0300</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Computational Musicology</title>
+      <link>http://localhost:1313/tags/computational-musicology/</link>
+    </image>
+    
+    <item>
+      <title>Corpus Research and Choro: Potential and Challenges for Digital Methods</title>
+      <link>http://localhost:1313/event/2024/20240403_ufrj/</link>
+      <pubDate>Wed, 03 Apr 2024 14:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/event/2024/20240403_ufrj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical Changes of Modes and their Substructure Modeled as Pitch Distributions in Plainchant from the 1100s to the 1500s</title>
+      <link>http://localhost:1313/publication/2023/20231116_cmmr/</link>
+      <pubDate>Thu, 16 Nov 2023 09:20:00 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2023/20231116_cmmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical Changes of Modes and their Substructure Modeled as Pitch Distributions in Plainchant from the 1100s to the 1500s</title>
+      <link>http://localhost:1313/event/2023/20231113-17_cmmr/</link>
+      <pubDate>Mon, 13 Nov 2023 16:24:27 +0200</pubDate>
+      <guid>http://localhost:1313/event/2023/20231113-17_cmmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>midiVERTO: A web-based tool to make computational music analysis more accessible</title>
+      <link>http://localhost:1313/event/2022/20220428_dortmund/</link>
+      <pubDate>Thu, 28 Apr 2022 14:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/2022/20220428_dortmund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The importance of modeling in computational musicology</title>
+      <link>http://localhost:1313/event/2020/20201209_musmat/</link>
+      <pubDate>Wed, 09 Dec 2020 18:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/2020/20201209_musmat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tonality: Perspectives of historical musicology and corpus studies</title>
+      <link>http://localhost:1313/event/2020/20201125_cologne/</link>
+      <pubDate>Wed, 25 Nov 2020 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/2020/20201125_cologne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Musicology and the Digital Humanities: Problems, Practices, and Prospects</title>
+      <link>http://localhost:1313/event/2020/20200217_stuttgart/</link>
+      <pubDate>Tue, 18 Feb 2020 11:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/2020/20200217_stuttgart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitions of Tonality: Perspectives on the Historical Changes of Tonal Pitch Relations from Computational Musicology, Music Theory, and the Digital Humanities.</title>
+      <link>http://localhost:1313/event/2019/20191129_cologne/</link>
+      <pubDate>Fri, 29 Nov 2019 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/2019/20191129_cologne/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

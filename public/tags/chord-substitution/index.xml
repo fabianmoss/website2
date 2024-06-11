@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chord Substitution | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/chord-substitution/</link>
+      <atom:link href="http://localhost:1313/tags/chord-substitution/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chord Substitution</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2024 08:02:46 +0100</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Chord Substitution</title>
+      <link>http://localhost:1313/tags/chord-substitution/</link>
+    </image>
+    
+    <item>
+      <title>Cross-cultural modeling of the evolution of harmony in popular music</title>
+      <link>http://localhost:1313/event/2024/20240909-11_ces_durham/</link>
+      <pubDate>Mon, 09 Sep 2024 08:02:46 +0100</pubDate>
+      <guid>http://localhost:1313/event/2024/20240909-11_ces_durham/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

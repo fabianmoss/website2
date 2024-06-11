@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Fabian C. Moss</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jun 2024 20:06:29 +0100</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Fourier Qualia Wavescapes: Hierarchical Analyses of Set Class Quality and Ambiguity</title>
+      <link>http://localhost:1313/publication/2024/20240619-21_mcm/</link>
+      <pubDate>Wed, 19 Jun 2024 20:06:29 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2024/20240619-21_mcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational modeling of interval distributions in tonal space reveals paradigmatic stylistic changes in Western music history</title>
+      <link>http://localhost:1313/publication/2024/20240601_hss_tdm/</link>
+      <pubDate>Fri, 24 May 2024 12:03:22 +0200</pubDate>
+      <guid>http://localhost:1313/publication/2024/20240601_hss_tdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transatlantic Transformations: On Neo-Riemannian Theories</title>
+      <link>http://localhost:1313/publication/2024/transatlantic_transformations/</link>
+      <pubDate>Mon, 04 Mar 2024 14:00:06 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2024/transatlantic_transformations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Annotated Corpus of Tonal Piano Music from the Long 19th Century</title>
+      <link>http://localhost:1313/publication/2023/20240112_emr_19thcenturypiano/</link>
+      <pubDate>Sun, 31 Dec 2023 13:45:33 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2023/20240112_emr_19thcenturypiano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical Changes of Modes and their Substructure Modeled as Pitch Distributions in Plainchant from the 1100s to the 1500s</title>
+      <link>http://localhost:1313/publication/2023/20231116_cmmr/</link>
+      <pubDate>Thu, 16 Nov 2023 09:20:00 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2023/20231116_cmmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MonodiKit: A data model and toolkit for medieval monophonic chant</title>
+      <link>http://localhost:1313/publication/2023/monodikit/</link>
+      <pubDate>Fri, 10 Nov 2023 11:04:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/2023/monodikit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vorsicht, Sackgasse! Ein Plädoyer für mehr Intradisziplinarität</title>
+      <link>http://localhost:1313/publication/2023/musiconn_kontrovers/</link>
+      <pubDate>Tue, 26 Sep 2023 18:45:27 +0200</pubDate>
+      <guid>http://localhost:1313/publication/2023/musiconn_kontrovers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenging sources: a new dataset for OMR of diverse 19th-century music theory examples</title>
+      <link>http://localhost:1313/publication/20221118_worms/</link>
+      <pubDate>Mon, 31 Oct 2022 11:03:30 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20221118_worms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phantom Curves: Scientific Discovery through Interactive Music Visualization</title>
+      <link>http://localhost:1313/publication/2022_phantom_curves/</link>
+      <pubDate>Thu, 28 Jul 2022 10:44:09 +0200</pubDate>
+      <guid>http://localhost:1313/publication/2022_phantom_curves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Unified Model of Chords in Western Harmony</title>
+      <link>http://localhost:1313/publication/20210719-22_mec_alicante/</link>
+      <pubDate>Thu, 19 May 2022 12:15:00 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20210719-22_mec_alicante/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The line of fifths and the co-evolution of tonal pitch-classes</title>
+      <link>http://localhost:1313/publication/2022_lineoffifths_jmm/</link>
+      <pubDate>Fri, 18 Mar 2022 07:38:22 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2022_lineoffifths_jmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavescapes: A visual hierarchical analysis of tonality using the discrete Fourier transform</title>
+      <link>http://localhost:1313/publication/20220117_wavescapes/</link>
+      <pubDate>Mon, 17 Jan 2022 09:26:05 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20220117_wavescapes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Tonal Profiles with Latent Dirichlet Allocation</title>
+      <link>http://localhost:1313/publication/2021_moss_lda/</link>
+      <pubDate>Mon, 13 Dec 2021 08:47:13 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2021_moss_lda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAIR, Open, Linked: Introducing the Special Issue on Open Science in Musicology</title>
+      <link>http://localhost:1313/publication/20211211_emr_intro/</link>
+      <pubDate>Sat, 11 Dec 2021 11:25:56 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20211211_emr_intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model of Extended Tonal Harmony</title>
+      <link>http://localhost:1313/publication/20211112_ismir_extended/</link>
+      <pubDate>Fri, 12 Nov 2021 09:02:08 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20211112_ismir_extended/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semi-automated workflow paradigm for the distributed creation and curation of expert annotations</title>
+      <link>http://localhost:1313/publication/20211112_ismir_workflow/</link>
+      <pubDate>Fri, 12 Nov 2021 08:55:54 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20211112_ismir_workflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitizing a 19th-Century Music Theory Debate for Computational Analysis</title>
+      <link>http://localhost:1313/publication/2021_chr_workshop_ddd/</link>
+      <pubDate>Tue, 26 Oct 2021 15:05:36 +0200</pubDate>
+      <guid>http://localhost:1313/publication/2021_chr_workshop_ddd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for cognitive tonal hierarchies in cadential but not scalar contexts</title>
+      <link>http://localhost:1313/publication/2021101015_herffetal/</link>
+      <pubDate>Fri, 15 Oct 2021 13:00:57 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2021101015_herffetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Historical Analysis of Harmonic Progressions Using Chord Embeddings</title>
+      <link>http://localhost:1313/publication/anzuonietal2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/anzuonietal2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the foundations of tonality: statistical cognitive modeling of modes in the history of Western classical music</title>
+      <link>http://localhost:1313/publication/2020harasimetal/</link>
+      <pubDate>Mon, 04 Jan 2021 14:18:51 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2020harasimetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Tonal Diffusion Model</title>
+      <link>http://localhost:1313/publication/lieck2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lieck2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmony and Form in Brazilian Choro: A Corpus-Driven Approach to Musical Style Analysis</title>
+      <link>http://localhost:1313/publication/moss-2020/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moss-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TP3C</title>
+      <link>http://localhost:1313/publication/tp3c/</link>
+      <pubDate>Tue, 07 Jan 2020 08:42:20 +0100</pubDate>
+      <guid>http://localhost:1313/publication/tp3c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitions of Tonality: A Model-Based Corpus Study</title>
+      <link>http://localhost:1313/publication/moss-transitions-2019/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moss-transitions-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The pleasantness of sensory dissonance is mediated by musical style and expertise</title>
+      <link>http://localhost:1313/publication/popescu-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/popescu-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model Comparison for Chord Prediction on the Annotated Beethoven Corpus</title>
+      <link>http://localhost:1313/publication/landnes2019/</link>
+      <pubDate>Wed, 02 Oct 2019 18:18:47 +0200</pubDate>
+      <guid>http://localhost:1313/publication/landnes2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical characteristics of tonal harmony: A corpus study of Beethoven’s string quartets</title>
+      <link>http://localhost:1313/publication/moss2019plos/</link>
+      <pubDate>Thu, 06 Jun 2019 18:01:14 +0200</pubDate>
+      <guid>http://localhost:1313/publication/moss2019plos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>http://localhost:1313/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Choro Songbook Corpus</title>
+      <link>http://localhost:1313/publication/moss2018/</link>
+      <pubDate>Tue, 02 Oct 2018 18:25:03 +0200</pubDate>
+      <guid>http://localhost:1313/publication/moss2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Annotated Beethoven Corpus (ABC): A Dataset of Harmonic Analyses of All Beethoven String Quartets</title>
+      <link>http://localhost:1313/publication/neuwirth-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/neuwirth-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Review of David Huron. Voice Leading: The Science behind a Musical Art]</title>
+      <link>http://localhost:1313/publication/moss-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moss-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>http://localhost:1313/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tonality and functional equivalence: A multi-level model for the cognition of triadic progressions in 19th century music</title>
+      <link>http://localhost:1313/publication/moss-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moss-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>http://localhost:1313/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theorie der Tonfelder und Neo-Riemannian Theory</title>
+      <link>http://localhost:1313/publication/moss-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moss-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Albert Simons Theorie der Tonfelder und John Cloughs Flip-Flop Circles im Vergleich</title>
+      <link>http://localhost:1313/publication/moss-2011/</link>
+      <pubDate>Thu, 27 Jan 2011 18:01:14 +0200</pubDate>
+      <guid>http://localhost:1313/publication/moss-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

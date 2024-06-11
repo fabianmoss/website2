@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dualism Debate | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/dualism-debate/</link>
+      <atom:link href="http://localhost:1313/tags/dualism-debate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dualism Debate</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Dualism Debate</title>
+      <link>http://localhost:1313/tags/dualism-debate/</link>
+    </image>
+    
+    <item>
+      <title>Der harmonische Dualismus und seine Entwicklung zum &#39;Streit- und Angelpunkt der Musiktheorie&#39; - eine Diskursanalyse</title>
+      <link>http://localhost:1313/event/2022/20220928-1001_gfm_berlin/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2022/20220928-1001_gfm_berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitizing a 19th-Century Music Theory Debate for Computational Analysis</title>
+      <link>http://localhost:1313/event/2021/20211118_amsterdam_chr/</link>
+      <pubDate>Thu, 18 Nov 2021 15:05:36 +0200</pubDate>
+      <guid>http://localhost:1313/event/2021/20211118_amsterdam_chr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitizing a 19th-Century Music Theory Debate for Computational Analysis</title>
+      <link>http://localhost:1313/publication/2021_chr_workshop_ddd/</link>
+      <pubDate>Tue, 26 Oct 2021 15:05:36 +0200</pubDate>
+      <guid>http://localhost:1313/publication/2021_chr_workshop_ddd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitizing the Dualism Debate - a case study in the computational analysis of historical music theory sources</title>
+      <link>http://localhost:1313/event/2021/20210916_cross_lausanne/</link>
+      <pubDate>Sun, 19 Sep 2021 13:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/2021/20210916_cross_lausanne/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

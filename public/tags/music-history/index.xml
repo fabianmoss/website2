@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music History | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/music-history/</link>
+      <atom:link href="http://localhost:1313/tags/music-history/index.xml" rel="self" type="application/rss+xml" />
+    <description>Music History</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Nov 2020 12:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Music History</title>
+      <link>http://localhost:1313/tags/music-history/</link>
+    </image>
+    
+    <item>
+      <title>Tonality: Perspectives of historical musicology and corpus studies</title>
+      <link>http://localhost:1313/event/2020/20201125_cologne/</link>
+      <pubDate>Wed, 25 Nov 2020 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/2020/20201125_cologne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop: Data-Driven Music History</title>
+      <link>http://localhost:1313/event/2020/20200914_york/</link>
+      <pubDate>Mon, 14 Sep 2020 15:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/2020/20200914_york/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitions of Tonality: Perspectives on the Historical Changes of Tonal Pitch Relations from Computational Musicology, Music Theory, and the Digital Humanities.</title>
+      <link>http://localhost:1313/event/2019/20191129_cologne/</link>
+      <pubDate>Fri, 29 Nov 2019 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/2019/20191129_cologne/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

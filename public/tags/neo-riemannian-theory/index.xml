@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neo-Riemannian Theory | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/neo-riemannian-theory/</link>
+      <atom:link href="http://localhost:1313/tags/neo-riemannian-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neo-Riemannian Theory</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Mar 2024 14:00:06 +0100</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Neo-Riemannian Theory</title>
+      <link>http://localhost:1313/tags/neo-riemannian-theory/</link>
+    </image>
+    
+    <item>
+      <title>Transatlantic Transformations: On Neo-Riemannian Theories</title>
+      <link>http://localhost:1313/publication/2024/transatlantic_transformations/</link>
+      <pubDate>Mon, 04 Mar 2024 14:00:06 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2024/transatlantic_transformations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theorie der Tonfelder und Neo-Riemannian Theory</title>
+      <link>http://localhost:1313/publication/moss-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moss-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

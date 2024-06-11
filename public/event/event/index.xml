@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/event/event/</link>
+      <atom:link href="http://localhost:1313/event/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://localhost:1313/event/event/</link>
+    </image>
+    
+    <item>
+      <title>Cross-cultural modeling of the evolution of harmony in popular music</title>
+      <link>http://localhost:1313/event/event/2024/20240909-11_ces_durham/</link>
+      <pubDate>Mon, 09 Sep 2024 08:02:46 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2024/20240909-11_ces_durham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>After Digitization: Computational Modeling and Analysis of Medieval Chant</title>
+      <link>http://localhost:1313/event/event/2024/2024070-09_medren_themedsession/</link>
+      <pubDate>Sat, 06 Jul 2024 20:50:32 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2024/2024070-09_medren_themedsession/</guid>
+      <description>&lt;h2 id=&#34;gregorian-chant-melody-segmentation-centonization-vs-bayesian-methods&#34;&gt;Gregorian Chant Melody Segmentation: Centonization vs Bayesian Methods&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Vojtěch Lanz, Jan Hajič jr. &amp;amp; Charles Atkinson&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Gregorian melodies have been observed to re-use melodic segments, especially within modes. Such segments would have allowed for more efficient memorization. Segmentations have also led to better assignment of melodies to mode than music-theoretical methods. We model chant melody from this perspective of efficient memorization. Using only antiphon and responsory melodies themselves, we apply nonparametric Bayesian models to infer their optimal segmentations. These provide yet better mode classification results, and provide empirical evidence that modality is more determinative for the beginnings and ends of melodies, but they also suggest that surface-level segmentation is not an appropriate model of chant melody.&lt;/p&gt;
+&lt;h2 id=&#34;reconstructing-the-formation-of-trope-traditions-through-network-models&#34;&gt;Reconstructing the Formation of Trope Traditions through Network Models&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tim Eipert, Fabian C. Moss &amp;amp; Hana Vlhóva-Wörner&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The trope element catalogs of the edition project Corpus Troporum provide an essential insight into chant transmission. The catalogs reveal how the chant community created new melodies in a time when a closed collection of unchangeable sacred chant was used in liturgy. Modeling this catalog data as a graph enables us to re-evaluate existing scholarship in the light of our data: Do the shifting boundaries of the Carolingian Empire influence the melodies’ origin and the formation of melodic traditions? Can we estimate the origin date by combining statistical models and expert knowledge?&lt;/p&gt;
+&lt;h2 id=&#34;the-helping-hand-a-computational-perspective-on-guidonian-solmisation&#34;&gt;The helping hand: A computational perspective on Guidonian solmisation&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Bas Cornelissen, Ashley Burgoyne &amp;amp; Andreas Haug&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For centuries, medieval singers were trained to navigate a musical space of overlapping hexachords using their hands: using Guidonian solmisation. A sequence of solmisation syllables may, therefore, come closer to how Medieval singers conceived chant than a modern transcription does. This project asks a simple question: can we automatically derive a good ‘solmisation’ for a given chant melody? Addressing this question requires a formal description of Guidonian solmisation, and the sorts of strategies one can use to produce solmizations. We hope that such a computational perspective on solmisation can contribute to our understanding of solmisation, and to musical representations that more closely align with historical conceptions.&lt;/p&gt;
+&lt;h2 id=&#34;i-have-a-dream-future-projects-in-computer-aided-chant-research&#34;&gt;&amp;ldquo;I have a dream&amp;rdquo;: Future projects in computer-aided chant research&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Charles M. Atkinson&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This session presents three examples of current projects involving digitization and computational analysis. My paper, however, focuses on the first word of the session title: &amp;ldquo;After&amp;rdquo;. I envision three large-scale projects involving expanded computational resources that would be of great benefit to chant scholars: 1. Virtual reconstruction of liturgical manuscripts from the myriad fragments that have been and continue to be discovered. 2. Developing tools to compare Western and Eastern chant (including Byzantine, Georgian, and other traditions) allowing reciprocal text and music searches between symbol and content among all notated sources. 3. Creating a universal index of music-theoretical diagrams in all notated traditions (e.g. ancient Greek, Arabic, Chinese) showing both diagrams and the texts they illustrate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Echos (mode) classification in heirmologic corpora of Byzantine music</title>
+      <link>http://localhost:1313/event/event/2024/2024070-09_medren_echosclassification/</link>
+      <pubDate>Sat, 06 Jul 2024 20:50:32 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2024/2024070-09_medren_echosclassification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Musicology - oxymoron or perfect fit?</title>
+      <link>http://localhost:1313/event/event/2024/20240704_graduateschoolsday/</link>
+      <pubDate>Thu, 04 Jul 2024 17:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2024/20240704_graduateschoolsday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encoding polymeters and metric irregularities in selected motets from Hugo Distler&#39;s Der Jahrkreis op. 5 using different music encoding formats</title>
+      <link>http://localhost:1313/event/event/2024/20240627-29_echoes_hofmann/</link>
+      <pubDate>Thu, 27 Jun 2024 08:03:22 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2024/20240627-29_echoes_hofmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medieval Chant Lineages Unlocked: Leveraging Optical Music Recognition for Phylogenetic Analysis of Gregorian Proper</title>
+      <link>http://localhost:1313/event/event/2024/20240627-29_echoes_eipert/</link>
+      <pubDate>Thu, 27 Jun 2024 08:03:22 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2024/20240627-29_echoes_eipert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Künstliche Intelligenz und Musikwissenschaft</title>
+      <link>http://localhost:1313/event/event/2024/20240617_acdh-ch/</link>
+      <pubDate>Mon, 17 Jun 2024 17:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2024/20240617_acdh-ch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourier Qualia Wavescapes: Hierarchical Analyses of Set Class Quality and Ambiguity</title>
+      <link>http://localhost:1313/event/event/2024/20240618-21_mcm24/</link>
+      <pubDate>Sat, 15 Jun 2024 08:02:19 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2024/20240618-21_mcm24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corpus Research and Choro: Potential and Challenges for Digital Methods</title>
+      <link>http://localhost:1313/event/event/2024/20240403_ufrj/</link>
+      <pubDate>Wed, 03 Apr 2024 14:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/event/event/2024/20240403_ufrj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual tonal spaces (VTS): towards an interactive digital environment for music theory</title>
+      <link>http://localhost:1313/event/event/2023/20231122_vts/</link>
+      <pubDate>Wed, 22 Nov 2023 15:20:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20231122_vts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10 secret rules for a degree in DH - you won&#39;t believe no. 7!!</title>
+      <link>http://localhost:1313/event/event/2023/20231117_epfl_dh_alumni/</link>
+      <pubDate>Fri, 17 Nov 2023 16:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20231117_epfl_dh_alumni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical Changes of Modes and their Substructure Modeled as Pitch Distributions in Plainchant from the 1100s to the 1500s</title>
+      <link>http://localhost:1313/event/event/2023/20231113-17_cmmr/</link>
+      <pubDate>Mon, 13 Nov 2023 16:24:27 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20231113-17_cmmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MonodiKit: A data model and toolkit for medieval monophonic chant</title>
+      <link>http://localhost:1313/event/event/2023/20231110_dlfm_milano/</link>
+      <pubDate>Fri, 10 Nov 2023 14:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20231110_dlfm_milano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communities in Medieval Troper Networks are Shaped by Carolingian Politics</title>
+      <link>http://localhost:1313/event/event/2023/20231110_dlfm_poster/</link>
+      <pubDate>Fri, 10 Nov 2023 13:20:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20231110_dlfm_poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animated Harmonic Analysis Using DFT Phase Spaces and Coefficient Products</title>
+      <link>http://localhost:1313/event/event/2023/20231109-12_smtams_midiverto/</link>
+      <pubDate>Thu, 09 Nov 2023 12:09:12 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20231109-12_smtams_midiverto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counting notes: Research questions and methods in music corpus studies</title>
+      <link>http://localhost:1313/event/event/2023/20231012_unil/</link>
+      <pubDate>Thu, 12 Oct 2023 10:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20231012_unil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inside or Outside: The Use of Chord, Scale and Chromatic Tones in Jazz Solo Improvisations</title>
+      <link>http://localhost:1313/event/event/2023/20231004-07_gfm_jazz/</link>
+      <pubDate>Sat, 07 Oct 2023 11:02:21 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20231004-07_gfm_jazz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korpusforschung und Digitale Edition: ein Plädoyer für stärkere Intradisziplinarität</title>
+      <link>http://localhost:1313/event/event/2023/20231004-07_gfm_saarbruecken/</link>
+      <pubDate>Wed, 04 Oct 2023 10:04:20 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20231004-07_gfm_saarbruecken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music-Text Interlinking as a Challenge for Digital Encodings of Music-Theoretical Writings</title>
+      <link>http://localhost:1313/event/event/2023/20230904-08_mec2023_paderborn/</link>
+      <pubDate>Mon, 04 Sep 2023 12:01:52 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20230904-08_mec2023_paderborn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A system of trope elements: using network models to understand interrelations within the transmission of trope complexes</title>
+      <link>http://localhost:1313/event/event/2023/20230724-28_medren/</link>
+      <pubDate>Mon, 24 Jul 2023 17:03:30 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20230724-28_medren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Töne zählen: Forschungsfragen und Methoden musikwissenschaftlicher Korpusstudien in historischer und epistemologischer Perspektive</title>
+      <link>http://localhost:1313/event/event/2023/20230628_ieg_mainz/</link>
+      <pubDate>Wed, 28 Jun 2023 18:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20230628_ieg_mainz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musik Er-Zählen: Einblicke in die digitale Korpusforschung</title>
+      <link>http://localhost:1313/event/event/2023/20230620_institutskolloquium_wue/</link>
+      <pubDate>Tue, 20 Jun 2023 18:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20230620_institutskolloquium_wue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Respondent to Sanja Kiš Žuvela: Musical Terminology, Digital Corpus Management and Translation</title>
+      <link>http://localhost:1313/event/event/2023/20230209_respondent_gmth/</link>
+      <pubDate>Thu, 09 Feb 2023 18:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2023/20230209_respondent_gmth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenging sources: a new dataset for OMR of diverse 19th-century music theory examples</title>
+      <link>http://localhost:1313/event/event/2022/20221118_worms/</link>
+      <pubDate>Fri, 18 Nov 2022 11:11:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2022/20221118_worms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Stylometry - the Case of Choro</title>
+      <link>http://localhost:1313/event/event/2022/20221102_princeton/</link>
+      <pubDate>Wed, 02 Nov 2022 17:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2022/20221102_princeton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning about Machine Learning with CRIM</title>
+      <link>http://localhost:1313/event/event/2022/20221020-22_haverford/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/event/2022/20221020-22_haverford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Der harmonische Dualismus und seine Entwicklung zum &#39;Streit- und Angelpunkt der Musiktheorie&#39; - eine Diskursanalyse</title>
+      <link>http://localhost:1313/event/event/2022/20220928-1001_gfm_berlin/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/event/2022/20220928-1001_gfm_berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Cancelled:] Reading Music Theory from a Distance: A Corpus Study of the Thesaurus Musicarum Italicarum</title>
+      <link>http://localhost:1313/event/event/2022/20220822-26_athens/</link>
+      <pubDate>Mon, 22 Aug 2022 12:32:30 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2022/20220822-26_athens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phantom Curves: Scientific Discovery through Interactive Music Visualization</title>
+      <link>http://localhost:1313/event/event/2022/20220728-29_dlfm_prague/</link>
+      <pubDate>Thu, 28 Jul 2022 09:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2022/20220728-29_dlfm_prague/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>midiVerto: A Web Application to Visualize Tonality in Real Time</title>
+      <link>http://localhost:1313/event/event/2022/20220621-24_mcm/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/event/2022/20220621-24_mcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Totoli&#39;s Art of Lelegesan: Analyzing Sociocultural Context and Musical Content</title>
+      <link>http://localhost:1313/event/event/2022/20220614-17_fma2022/</link>
+      <pubDate>Thu, 16 Jun 2022 14:37:37 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2022/20220614-17_fma2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Tong Yun San Gong theory in Chinese music: a corpus study of Chinese folksongs</title>
+      <link>http://localhost:1313/event/event/2022/20220614-17_aawm_sheffield/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/event/2022/20220614-17_aawm_sheffield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>midiVERTO: A web-based tool to make computational music analysis more accessible</title>
+      <link>http://localhost:1313/event/event/2022/20220404_midiverto_porto/20220428_dortmund/</link>
+      <pubDate>Thu, 28 Apr 2022 14:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2022/20220404_midiverto_porto/20220428_dortmund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>midiVERTO: A web-based tool to make computational music analysis more accessible</title>
+      <link>http://localhost:1313/event/event/2022/20220428_dortmund/</link>
+      <pubDate>Thu, 28 Apr 2022 14:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2022/20220428_dortmund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Music Analysis using the DFT and Pitch-Class Distributions extracted from MIDI files</title>
+      <link>http://localhost:1313/event/event/2022/20220404_midiverto_porto/</link>
+      <pubDate>Mon, 04 Apr 2022 14:30:30 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2022/20220404_midiverto_porto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Theory and the Discrete Fourier Transform</title>
+      <link>http://localhost:1313/event/event/2022/20220325_ohio_labmeeting/</link>
+      <pubDate>Fri, 25 Mar 2022 15:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2022/20220325_ohio_labmeeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Science of Music</title>
+      <link>http://localhost:1313/event/event/2021/20211125_epfl/</link>
+      <pubDate>Wed, 24 Nov 2021 09:40:57 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2021/20211125_epfl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitizing a 19th-Century Music Theory Debate for Computational Analysis</title>
+      <link>http://localhost:1313/event/event/2021/20211118_amsterdam_chr/</link>
+      <pubDate>Thu, 18 Nov 2021 15:05:36 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2021/20211118_amsterdam_chr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polytonality and the Emergence of Tone Fields in Tailleferre&#39;s Pastorale</title>
+      <link>http://localhost:1313/event/event/2021/20210930_gmth_basel/</link>
+      <pubDate>Sat, 02 Oct 2021 14:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2021/20210930_gmth_basel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Die Entwicklung der tonalen Sprache in Beethovens Streichquartetten: Eine vergleichende Korpusstudie der Schaffensphasen</title>
+      <link>http://localhost:1313/event/event/2020/20200916_bonn/</link>
+      <pubDate>Tue, 28 Sep 2021 19:23:56 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2020/20200916_bonn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitizing the Dualism Debate - a case study in the computational analysis of historical music theory sources</title>
+      <link>http://localhost:1313/event/event/2021/20210916_cross_lausanne/</link>
+      <pubDate>Sun, 19 Sep 2021 13:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2021/20210916_cross_lausanne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling perceived tonal stability of individual and aggregated listener responses for scales and cadences</title>
+      <link>http://localhost:1313/event/event/2021/20210730_icmpc_indvagg/</link>
+      <pubDate>Fri, 30 Jul 2021 16:22:42 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2021/20210730_icmpc_indvagg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual perception of diatonic scales predicts perceived tonal fit in octatonic and hexatonic contexts</title>
+      <link>http://localhost:1313/event/event/2021/20210729_icmpc_octhex/</link>
+      <pubDate>Thu, 29 Jul 2021 16:22:42 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2021/20210729_icmpc_octhex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering the line of fifths in a large historical corpus</title>
+      <link>http://localhost:1313/event/event/2021/20210307_ohio/</link>
+      <pubDate>Sun, 07 Mar 2021 18:40:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2021/20210307_ohio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The importance of modeling in computational musicology</title>
+      <link>http://localhost:1313/event/event/2020/20201209_musmat/</link>
+      <pubDate>Wed, 09 Dec 2020 18:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2020/20201209_musmat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tonality: Perspectives of historical musicology and corpus studies</title>
+      <link>http://localhost:1313/event/event/2020/20201125_cologne/</link>
+      <pubDate>Wed, 25 Nov 2020 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2020/20201125_cologne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop: Analyzing musical pieces on the Tonnetz using the pitchplots Python library</title>
+      <link>http://localhost:1313/event/event/2020/20201001_detmold/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/event/2020/20201001_detmold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop: Data-Driven Music History</title>
+      <link>http://localhost:1313/event/event/2020/20200914_york/</link>
+      <pubDate>Mon, 14 Sep 2020 15:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2020/20200914_york/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Musicology and the Digital Humanities: Problems, Practices, and Prospects</title>
+      <link>http://localhost:1313/event/event/2020/20200217_stuttgart/</link>
+      <pubDate>Tue, 18 Feb 2020 11:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2020/20200217_stuttgart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitions of Tonality: Perspectives on the Historical Changes of Tonal Pitch Relations from Computational Musicology, Music Theory, and the Digital Humanities.</title>
+      <link>http://localhost:1313/event/event/2019/20191129_cologne/</link>
+      <pubDate>Fri, 29 Nov 2019 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/event/2019/20191129_cologne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracing the History of Tonality with Note Distributions</title>
+      <link>http://localhost:1313/event/event/2019/20190702_telaviv/</link>
+      <pubDate>Tue, 02 Jul 2019 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2019/20190702_telaviv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring Tonality from Note Distributions - Why Models Matter</title>
+      <link>http://localhost:1313/event/event/2019/20190325_cambridge/</link>
+      <pubDate>Mon, 25 Mar 2019 13:10:34 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2019/20190325_cambridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Tonality with Note Distributions</title>
+      <link>http://localhost:1313/event/event/2019/20190222_basel/</link>
+      <pubDate>Fri, 22 Feb 2019 13:14:56 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2019/20190222_basel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmony and Form in Brazilian Choro: A Corpus Study</title>
+      <link>http://localhost:1313/event/event/2018/20180724_graz/</link>
+      <pubDate>Tue, 24 Jul 2018 11:10:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2018/20180724_graz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Maximum Likelihood Model for the Harmonic Analysis of Symbolic Music</title>
+      <link>http://localhost:1313/event/event/2018/20180705_limassol/</link>
+      <pubDate>Thu, 05 Jul 2018 13:38:29 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2018/20180705_limassol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corpus Research in Digital Musicology</title>
+      <link>http://localhost:1313/event/event/2018/20180430_basel/</link>
+      <pubDate>Mon, 30 Apr 2018 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2018/20180430_basel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Brief History of Tonality</title>
+      <link>http://localhost:1313/event/event/2018/20180125_lausanne/</link>
+      <pubDate>Fri, 26 Jan 2018 13:46:51 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2018/20180125_lausanne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brazilian Choro: A New Data Set of Chord Transcriptions and Analyses of Harmonic and Formal Features</title>
+      <link>http://localhost:1313/event/event/2017/20171117_graz/</link>
+      <pubDate>Fri, 17 Nov 2017 15:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2017/20171117_graz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Grammars and Ambiguity in Extended Tonality</title>
+      <link>http://localhost:1313/event/event/2017/20171025_berlin/</link>
+      <pubDate>Wed, 25 Oct 2017 17:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2017/20171025_berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beethovens Streichquartette – ein XML-basierter Korpus harmonischer Analysen in einem neuen Annotationssystem</title>
+      <link>http://localhost:1313/event/event/2017/20170929_kassel/</link>
+      <pubDate>Fri, 29 Sep 2017 09:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2017/20170929_kassel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musik und Sprache</title>
+      <link>http://localhost:1313/event/event/2017/20170727_dresden/</link>
+      <pubDate>Thu, 27 Jul 2017 18:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2017/20170727_dresden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambiguity, Illusion &amp; Timelessness in Late and Post-Tonal Harmony (Panel Discussion)</title>
+      <link>http://localhost:1313/event/event/2017/20170630_strasbourgpanel/</link>
+      <pubDate>Fri, 30 Jun 2017 16:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2017/20170630_strasbourgpanel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating transformational and hierarchical models of extended tonality</title>
+      <link>http://localhost:1313/event/event/2017/20170630_strasbourg/</link>
+      <pubDate>Fri, 30 Jun 2017 15:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2017/20170630_strasbourg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional Associations Evoked by Structural Properties of Musical Scales and Abstract Visual Shapes</title>
+      <link>http://localhost:1313/event/event/2017/20170602_berlin/</link>
+      <pubDate>Fri, 02 Jun 2017 09:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2017/20170602_berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beethoven&#39;s String Quartets: Introducing an XML-Based Corpus of Harmonic Labels Using a New Annotation System</title>
+      <link>http://localhost:1313/event/event/2017/20170530_tours/</link>
+      <pubDate>Wed, 17 May 2017 17:45:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2017/20170530_tours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tonality and functional equivalence: A multi-level model for the cognition of triadic progressions in 19th century music</title>
+      <link>http://localhost:1313/event/event/2014/20140930_london/</link>
+      <pubDate>Wed, 03 Sep 2014 17:30:37 +0200</pubDate>
+      <guid>http://localhost:1313/event/event/2014/20140930_london/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

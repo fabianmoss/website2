@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trope | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/trope/</link>
+      <atom:link href="http://localhost:1313/tags/trope/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trope</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jul 2023 17:03:30 +0200</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Trope</title>
+      <link>http://localhost:1313/tags/trope/</link>
+    </image>
+    
+    <item>
+      <title>A system of trope elements: using network models to understand interrelations within the transmission of trope complexes</title>
+      <link>http://localhost:1313/event/2023/20230724-28_medren/</link>
+      <pubDate>Mon, 24 Jul 2023 17:03:30 +0200</pubDate>
+      <guid>http://localhost:1313/event/2023/20230724-28_medren/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

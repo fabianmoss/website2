@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music Analysis | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/music-analysis/</link>
+      <atom:link href="http://localhost:1313/tags/music-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Music Analysis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jun 2024 20:06:29 +0100</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Music Analysis</title>
+      <link>http://localhost:1313/tags/music-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Fourier Qualia Wavescapes: Hierarchical Analyses of Set Class Quality and Ambiguity</title>
+      <link>http://localhost:1313/publication/2024/20240619-21_mcm/</link>
+      <pubDate>Wed, 19 Jun 2024 20:06:29 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2024/20240619-21_mcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourier Qualia Wavescapes: Hierarchical Analyses of Set Class Quality and Ambiguity</title>
+      <link>http://localhost:1313/event/2024/20240618-21_mcm24/</link>
+      <pubDate>Sat, 15 Jun 2024 08:02:19 +0100</pubDate>
+      <guid>http://localhost:1313/event/2024/20240618-21_mcm24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Music Analysis using the DFT and Pitch-Class Distributions extracted from MIDI files</title>
+      <link>http://localhost:1313/event/2022/20220404_midiverto_porto/</link>
+      <pubDate>Mon, 04 Apr 2022 14:30:30 +0100</pubDate>
+      <guid>http://localhost:1313/event/2022/20220404_midiverto_porto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Theory and the Discrete Fourier Transform</title>
+      <link>http://localhost:1313/event/2022/20220325_ohio_labmeeting/</link>
+      <pubDate>Fri, 25 Mar 2022 15:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/2022/20220325_ohio_labmeeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavescapes: A visual hierarchical analysis of tonality using the discrete Fourier transform</title>
+      <link>http://localhost:1313/publication/20220117_wavescapes/</link>
+      <pubDate>Mon, 17 Jan 2022 09:26:05 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20220117_wavescapes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

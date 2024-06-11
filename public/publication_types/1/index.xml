@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Fabian C. Moss</title>
+    <link>http://localhost:1313/publication_types/1/</link>
+      <atom:link href="http://localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jun 2024 20:06:29 +0100</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>http://localhost:1313/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Fourier Qualia Wavescapes: Hierarchical Analyses of Set Class Quality and Ambiguity</title>
+      <link>http://localhost:1313/publication/2024/20240619-21_mcm/</link>
+      <pubDate>Wed, 19 Jun 2024 20:06:29 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2024/20240619-21_mcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical Changes of Modes and their Substructure Modeled as Pitch Distributions in Plainchant from the 1100s to the 1500s</title>
+      <link>http://localhost:1313/publication/2023/20231116_cmmr/</link>
+      <pubDate>Thu, 16 Nov 2023 09:20:00 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2023/20231116_cmmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MonodiKit: A data model and toolkit for medieval monophonic chant</title>
+      <link>http://localhost:1313/publication/2023/monodikit/</link>
+      <pubDate>Fri, 10 Nov 2023 11:04:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/2023/monodikit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenging sources: a new dataset for OMR of diverse 19th-century music theory examples</title>
+      <link>http://localhost:1313/publication/20221118_worms/</link>
+      <pubDate>Mon, 31 Oct 2022 11:03:30 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20221118_worms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phantom Curves: Scientific Discovery through Interactive Music Visualization</title>
+      <link>http://localhost:1313/publication/2022_phantom_curves/</link>
+      <pubDate>Thu, 28 Jul 2022 10:44:09 +0200</pubDate>
+      <guid>http://localhost:1313/publication/2022_phantom_curves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Unified Model of Chords in Western Harmony</title>
+      <link>http://localhost:1313/publication/20210719-22_mec_alicante/</link>
+      <pubDate>Thu, 19 May 2022 12:15:00 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20210719-22_mec_alicante/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitizing a 19th-Century Music Theory Debate for Computational Analysis</title>
+      <link>http://localhost:1313/event/2021/20211118_amsterdam_chr/</link>
+      <pubDate>Thu, 18 Nov 2021 15:05:36 +0200</pubDate>
+      <guid>http://localhost:1313/event/2021/20211118_amsterdam_chr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model of Extended Tonal Harmony</title>
+      <link>http://localhost:1313/publication/20211112_ismir_extended/</link>
+      <pubDate>Fri, 12 Nov 2021 09:02:08 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20211112_ismir_extended/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semi-automated workflow paradigm for the distributed creation and curation of expert annotations</title>
+      <link>http://localhost:1313/publication/20211112_ismir_workflow/</link>
+      <pubDate>Fri, 12 Nov 2021 08:55:54 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20211112_ismir_workflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitizing a 19th-Century Music Theory Debate for Computational Analysis</title>
+      <link>http://localhost:1313/publication/2021_chr_workshop_ddd/</link>
+      <pubDate>Tue, 26 Oct 2021 15:05:36 +0200</pubDate>
+      <guid>http://localhost:1313/publication/2021_chr_workshop_ddd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Historical Analysis of Harmonic Progressions Using Chord Embeddings</title>
+      <link>http://localhost:1313/publication/anzuonietal2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/anzuonietal2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model Comparison for Chord Prediction on the Annotated Beethoven Corpus</title>
+      <link>http://localhost:1313/publication/landnes2019/</link>
+      <pubDate>Wed, 02 Oct 2019 18:18:47 +0200</pubDate>
+      <guid>http://localhost:1313/publication/landnes2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tonality and functional equivalence: A multi-level model for the cognition of triadic progressions in 19th century music</title>
+      <link>http://localhost:1313/publication/moss-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moss-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

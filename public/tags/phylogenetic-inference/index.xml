@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phylogenetic Inference | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/phylogenetic-inference/</link>
+      <atom:link href="http://localhost:1313/tags/phylogenetic-inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phylogenetic Inference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jun 2024 08:03:22 +0100</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Phylogenetic Inference</title>
+      <link>http://localhost:1313/tags/phylogenetic-inference/</link>
+    </image>
+    
+    <item>
+      <title>Medieval Chant Lineages Unlocked: Leveraging Optical Music Recognition for Phylogenetic Analysis of Gregorian Proper</title>
+      <link>http://localhost:1313/event/2024/20240627-29_echoes_eipert/</link>
+      <pubDate>Thu, 27 Jun 2024 08:03:22 +0100</pubDate>
+      <guid>http://localhost:1313/event/2024/20240627-29_echoes_eipert/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

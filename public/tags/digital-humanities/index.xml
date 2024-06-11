@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Humanities | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/digital-humanities/</link>
+      <atom:link href="http://localhost:1313/tags/digital-humanities/index.xml" rel="self" type="application/rss+xml" />
+    <description>Digital Humanities</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Nov 2023 16:30:00 +0200</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Digital Humanities</title>
+      <link>http://localhost:1313/tags/digital-humanities/</link>
+    </image>
+    
+    <item>
+      <title>10 secret rules for a degree in DH - you won&#39;t believe no. 7!!</title>
+      <link>http://localhost:1313/event/2023/20231117_epfl_dh_alumni/</link>
+      <pubDate>Fri, 17 Nov 2023 16:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/2023/20231117_epfl_dh_alumni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counting notes: Research questions and methods in music corpus studies</title>
+      <link>http://localhost:1313/event/2023/20231012_unil/</link>
+      <pubDate>Thu, 12 Oct 2023 10:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/2023/20231012_unil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music-Text Interlinking as a Challenge for Digital Encodings of Music-Theoretical Writings</title>
+      <link>http://localhost:1313/event/2023/20230904-08_mec2023_paderborn/</link>
+      <pubDate>Mon, 04 Sep 2023 12:01:52 +0200</pubDate>
+      <guid>http://localhost:1313/event/2023/20230904-08_mec2023_paderborn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenging sources: a new dataset for OMR of diverse 19th-century music theory examples</title>
+      <link>http://localhost:1313/event/2022/20221118_worms/</link>
+      <pubDate>Fri, 18 Nov 2022 11:11:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/2022/20221118_worms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenging sources: a new dataset for OMR of diverse 19th-century music theory examples</title>
+      <link>http://localhost:1313/publication/20221118_worms/</link>
+      <pubDate>Mon, 31 Oct 2022 11:03:30 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20221118_worms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop: Data-Driven Music History</title>
+      <link>http://localhost:1313/event/2020/20200914_york/</link>
+      <pubDate>Mon, 14 Sep 2020 15:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/2020/20200914_york/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Musicology and the Digital Humanities: Problems, Practices, and Prospects</title>
+      <link>http://localhost:1313/event/2020/20200217_stuttgart/</link>
+      <pubDate>Tue, 18 Feb 2020 11:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/2020/20200217_stuttgart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitions of Tonality: Perspectives on the Historical Changes of Tonal Pitch Relations from Computational Musicology, Music Theory, and the Digital Humanities.</title>
+      <link>http://localhost:1313/event/2019/20191129_cologne/</link>
+      <pubDate>Fri, 29 Nov 2019 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/event/2019/20191129_cologne/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

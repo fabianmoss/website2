@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Fabian C. Moss</title>
+    <link>http://localhost:1313/publication_types/2/</link>
+      <atom:link href="http://localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2024 12:03:22 +0200</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>http://localhost:1313/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Computational modeling of interval distributions in tonal space reveals paradigmatic stylistic changes in Western music history</title>
+      <link>http://localhost:1313/publication/2024/20240601_hss_tdm/</link>
+      <pubDate>Fri, 24 May 2024 12:03:22 +0200</pubDate>
+      <guid>http://localhost:1313/publication/2024/20240601_hss_tdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Annotated Corpus of Tonal Piano Music from the Long 19th Century</title>
+      <link>http://localhost:1313/publication/2023/20240112_emr_19thcenturypiano/</link>
+      <pubDate>Sun, 31 Dec 2023 13:45:33 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2023/20240112_emr_19thcenturypiano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The line of fifths and the co-evolution of tonal pitch-classes</title>
+      <link>http://localhost:1313/publication/2022_lineoffifths_jmm/</link>
+      <pubDate>Fri, 18 Mar 2022 07:38:22 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2022_lineoffifths_jmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavescapes: A visual hierarchical analysis of tonality using the discrete Fourier transform</title>
+      <link>http://localhost:1313/publication/20220117_wavescapes/</link>
+      <pubDate>Mon, 17 Jan 2022 09:26:05 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20220117_wavescapes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Tonal Profiles with Latent Dirichlet Allocation</title>
+      <link>http://localhost:1313/publication/2021_moss_lda/</link>
+      <pubDate>Mon, 13 Dec 2021 08:47:13 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2021_moss_lda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAIR, Open, Linked: Introducing the Special Issue on Open Science in Musicology</title>
+      <link>http://localhost:1313/publication/20211211_emr_intro/</link>
+      <pubDate>Sat, 11 Dec 2021 11:25:56 +0100</pubDate>
+      <guid>http://localhost:1313/publication/20211211_emr_intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the foundations of tonality: statistical cognitive modeling of modes in the history of Western classical music</title>
+      <link>http://localhost:1313/publication/2020harasimetal/</link>
+      <pubDate>Mon, 04 Jan 2021 14:18:51 +0100</pubDate>
+      <guid>http://localhost:1313/publication/2020harasimetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Tonal Diffusion Model</title>
+      <link>http://localhost:1313/publication/lieck2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lieck2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmony and Form in Brazilian Choro: A Corpus-Driven Approach to Musical Style Analysis</title>
+      <link>http://localhost:1313/publication/moss-2020/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moss-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The pleasantness of sensory dissonance is mediated by musical style and expertise</title>
+      <link>http://localhost:1313/publication/popescu-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/popescu-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical characteristics of tonal harmony: A corpus study of Beethoven’s string quartets</title>
+      <link>http://localhost:1313/publication/moss2019plos/</link>
+      <pubDate>Thu, 06 Jun 2019 18:01:14 +0200</pubDate>
+      <guid>http://localhost:1313/publication/moss2019plos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Annotated Beethoven Corpus (ABC): A Dataset of Harmonic Analyses of All Beethoven String Quartets</title>
+      <link>http://localhost:1313/publication/neuwirth-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/neuwirth-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Review of David Huron. Voice Leading: The Science behind a Musical Art]</title>
+      <link>http://localhost:1313/publication/moss-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moss-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

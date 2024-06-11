@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interactive Learning Environments | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/interactive-learning-environments/</link>
+      <atom:link href="http://localhost:1313/tags/interactive-learning-environments/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interactive Learning Environments</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 09:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Interactive Learning Environments</title>
+      <link>http://localhost:1313/tags/interactive-learning-environments/</link>
+    </image>
+    
+    <item>
+      <title>Phantom Curves: Scientific Discovery through Interactive Music Visualization</title>
+      <link>http://localhost:1313/event/2022/20220728-29_dlfm_prague/</link>
+      <pubDate>Thu, 28 Jul 2022 09:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/2022/20220728-29_dlfm_prague/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

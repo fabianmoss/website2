@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medieval Chant | Fabian C. Moss</title>
+    <link>http://localhost:1313/tags/medieval-chant/</link>
+      <atom:link href="http://localhost:1313/tags/medieval-chant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Medieval Chant</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Nov 2023 14:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Medieval Chant</title>
+      <link>http://localhost:1313/tags/medieval-chant/</link>
+    </image>
+    
+    <item>
+      <title>MonodiKit: A data model and toolkit for medieval monophonic chant</title>
+      <link>http://localhost:1313/event/2023/20231110_dlfm_milano/</link>
+      <pubDate>Fri, 10 Nov 2023 14:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/2023/20231110_dlfm_milano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communities in Medieval Troper Networks are Shaped by Carolingian Politics</title>
+      <link>http://localhost:1313/event/2023/20231110_dlfm_poster/</link>
+      <pubDate>Fri, 10 Nov 2023 13:20:00 +0200</pubDate>
+      <guid>http://localhost:1313/event/2023/20231110_dlfm_poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MonodiKit: A data model and toolkit for medieval monophonic chant</title>
+      <link>http://localhost:1313/publication/2023/monodikit/</link>
+      <pubDate>Fri, 10 Nov 2023 11:04:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/2023/monodikit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
